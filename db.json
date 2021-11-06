@@ -4,49 +4,103 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 17
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 7
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 3
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 4
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 2
+    },
+    {
+      "name": "Example toy",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "example2",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Troll",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 2,
+      "id": 11
+    },
+    {
+      "name": "troll2",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "troll3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 2,
+      "id": 13
+    },
+    {
+      "name": "Another Troll",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 3,
+      "id": 14
+    },
+    {
+      "name": "moar troll",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 3,
+      "id": 15
+    },
+    {
+      "name": "teddy bear... jk it's a troll",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 5,
+      "id": 16
+    },
+    {
+      "name": "Last Troll",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Wizard_troll_doll-low_res.jpg",
+      "likes": 1,
+      "id": 17
     }
   ]
 }
